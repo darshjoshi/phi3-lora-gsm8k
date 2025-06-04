@@ -39,7 +39,6 @@ Or open and run in Google Colab via `notebooks/fine_tune_phi2_lora.ipynb`
 ```
 phi2-lora-gsm8k/
 ├── data/                          # Preprocessed GSM8K dataset
-├── [Hugging Face Model Card](https://huggingface.co/darshjoshi16/phi2-lora-math)   # LoRA fine-tuned model and tokenizer
 ├── notebooks/
 │   └── fine_tune_phi2_lora.ipynb # End-to-end notebook
 ├── results/                       # Evaluation outputs
