@@ -6,7 +6,7 @@ This project demonstrates how to fine-tune Microsoft’s Phi-2 language model on
 ## Demo
 
 The project is also available as a Hugging Face Space:  
-[HuggingFace Space Demo]([https://darshjoshi.com](https://huggingface.co/spaces/darshjoshi16/phi2-lora-gsm8k))
+[HuggingFace Space Demo]([[https://darshjoshi.com](https://huggingface.co/spaces/darshjoshi16/phi2-lora-gsm8k)](https://huggingface.co/spaces/darshjoshi16/phi2-lora-gsm8k))
 
 --- 
 
