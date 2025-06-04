@@ -50,15 +50,6 @@ phi2-lora-gsm8k/
 > **Note:** The LoRA fine-tuned model and tokenizer are available on [Hugging Face 🤗](https://huggingface.co/darshjoshi16/phi2-lora-math)
 ---
 
-## 📎 Key Files
-
-* `data/distilled_gsm8k_local.jsonl` — GSM8K converted to Q/A pairs
-* `scripts/run_lm_eval.sh` — Batch evaluation script
-* `scripts/compare_base_lora.py` — Compare output generations
-* `report/project_summary.pdf` — Full 2-page summary
-
----
-
 ## ✅ Results Summary
 
 * LoRA fine-tuned model outperformed base Phi-2 on math reasoning
