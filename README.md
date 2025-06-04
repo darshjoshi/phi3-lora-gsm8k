@@ -3,6 +3,12 @@
 This project demonstrates how to fine-tune Microsoft’s Phi-2 language model on the GSM8K dataset using parameter-efficient LoRA adapters and evaluate it using the `lm-eval-harness` framework.
 
 ---
+## Demo
+
+The project is also available as a Hugging Face Space:  
+[HuggingFace Space Demo]([https://darshjoshi.com](https://huggingface.co/spaces/darshjoshi16/phi2-lora-gsm8k))
+
+--- 
 
 ## 📌 Project Highlights
 
