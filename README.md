@@ -51,23 +51,6 @@ phi2-lora-gsm8k/
 
 ---
 
-## 📊 Evaluation Example
-
-### Run LM Eval:
-
-```bash
-bash scripts/run_lm_eval.sh
-```
-
-Expected output on GSM8K (200 samples):
-
-```
-Exact Match (strict): 56.00%
-Standard Error:       ±3.5%
-```
-
----
-
 ## 📎 Key Files
 
 * `data/distilled_gsm8k_local.jsonl` — GSM8K converted to Q/A pairs
