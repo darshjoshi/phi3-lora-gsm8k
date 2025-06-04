@@ -44,6 +44,7 @@ phi2-lora-gsm8k/
 │   └── fine_tune_phi2_lora.ipynb # End-to-end notebook
 ├── results/                       # Evaluation outputs
 ├── scripts/                       # Shell/python automation
+├── process/                       # wandb.ai screenshot
 ├── report/                        # Project PDF summary
 └── README.md                      # This file
 ```
