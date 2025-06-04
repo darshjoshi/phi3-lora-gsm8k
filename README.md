@@ -48,7 +48,7 @@ phi2-lora-gsm8k/
 ├── report/                        # Project PDF summary
 └── README.md                      # This file
 ```
-
+> **Note:** The LoRA fine-tuned model and tokenizer are available on [Hugging Face 🤗](https://huggingface.co/darshjoshi16/phi2-lora-math)
 ---
 
 ## 📎 Key Files
